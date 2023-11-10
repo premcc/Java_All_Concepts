@@ -8,7 +8,7 @@ public class Find_Longest_Substring {
 public static void main(String args [])
 {
 
-	String s="abbcdb";
+	String s="abcdabb";
 	
 	String LongestSubStr=null;
 	int lenghthOfLOngSubstr=0;
